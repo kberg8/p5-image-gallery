@@ -29,12 +29,28 @@ p, h3, a {
 	font-family: 'redactedregular';
 }
 */
+h1 {
+    padding: 0 0 50px 0;
+}
+.button {
+    background-color: #00bfa8;
+    color: #444444;
+}
+
+.button:hover {
+    background-color: #fdf485;
+}
 
 .lb-container {
     height: 500px;
     width: 500px;
     border: none;
 }
+
+.lb-outerContainer {
+    width: 500px;
+}
+
 
 div.lb-nav {
     height: 510px;
