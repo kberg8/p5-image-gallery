@@ -29,3 +29,15 @@ p, h3, a {
 	font-family: 'redactedregular';
 }
 */
+
+.lb-container {
+    height: 500px;
+    width: 500px;
+    border: none;
+}
+
+div.lb-nav {
+    height: 510px;
+    width: 510px;
+}
+
